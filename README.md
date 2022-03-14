@@ -1,2 +1,2 @@
 # redux
-Redux basic usage
+Redux basic usage with React
